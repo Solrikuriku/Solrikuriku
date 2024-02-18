@@ -7,7 +7,7 @@
 ╰━━━┻━━━┻━━━┻╯╰━┻━━┻╯╰━┻╯╱╰╯<br />
 *or Tunglio, or Solrikuriku, or Termensol, or Solanum*<br />
 *or... just Sol*<br />
-she/her/xe/xer/they/them | 24 | ENG/RU <br />
+she/her/xe/xer | 24 | ENG/RU <br />
 (๑ > ᴗ < ๑)
 
              |                              ____.......__            
