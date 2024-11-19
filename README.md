@@ -1,5 +1,6 @@
-✨***Hey! I am*** ✨<br />
-<div>
+<div id = "main" align = center>
+✨Hey! I am ✨<br />
+<div id = "nice-head">
   <pre>
 .▄▄ ·       ▄▄▌  ▄▄▄  ▪  ▄ •▄  ▄▄▄·   ▄▄▄▄▄▄• ▄▌ ▐ ▄  ▄▄ • ▄▄▌  ▪
 ▐█ ▀.  ▄█▀▄ ██•  ▀▄ █·██ █▌▄▌▪▐█ ▀█   •██  █▪██▌•█▌▐█▐█ ▀ ▪██•  ██  ▄█▀▄ 
@@ -12,6 +13,8 @@
 *or... just Sol*<br />
 she/her/xe/xer | 25 | ENG/RU <br />
 (๑ > ᴗ < ๑) <br />
+<br />
+<div id = "star" align = center>
 
 
              |                              ____.......__            
@@ -27,4 +30,6 @@ she/her/xe/xer | 25 | ENG/RU <br />
             |/      `-\                                       `.     
             |                                                        
 
+</div>
 /*in reconstruction*/
+</div>
