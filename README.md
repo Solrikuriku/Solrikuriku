@@ -1,4 +1,4 @@
-<div id = "main" align = center>
+<div id = "main">
 ✨Hey! I am ✨<br />
 <div id = "nice-head">
   <pre>
@@ -14,7 +14,7 @@
 she/her/xe/xer | 25 | ENG/RU <br />
 (๑ > ᴗ < ๑) <br />
 <br />
-<div id = "star" align = center>
+<div id = "star">
 
 
              |                              ____.......__            
