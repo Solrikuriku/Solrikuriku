@@ -11,7 +11,8 @@
 </div>
 *or Tunglio, or Solrikuriku, or Termensol, or Solanum*<br />
 *or... just Sol*<br />
-she/her/xe/xer | 25 | ENG/RU <br />
+she/her/xe/xer | 26 | ENG/RU <br />
+*little stupid loser girl*<br />
 (๑ > ᴗ < ๑) <br />
 <br />
 <div id = "star">
