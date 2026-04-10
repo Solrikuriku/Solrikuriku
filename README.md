@@ -11,6 +11,9 @@
 </div>
 *or Tunglio, or Solrikuriku, or Termensol, or Solanum*<br />
 *or... just Sol*<br />
+
+<a href="https://bsky.app/profile/solrikuriku.bsky.social"> здесь можно почитать мои бредни </a>
+  
 she/her/xe/xer | 26 | ENG/RU <br />
 little stupid loser girl<br />
 (๑ > ᴗ < ๑) <br />
