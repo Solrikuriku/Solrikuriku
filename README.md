@@ -15,6 +15,8 @@
 she/her | 26 | ENG/RU <br />
 (๑ > ᴗ < ๑) <br />
 <br />
+Main interests: graphics programming, c++, math, metal music, fuck web programming, beer, Dostoevsky, crying in my pillow, art.
+
 Основные проекты:<br />
 🌻[2D САПР для конструирования верха обуви](https://github.com/Solrikuriku/2D-CAD-Shoes)<br />
 🌻[Программа для расчета параметров сонотрода для оборудования ультразвуковой сварки](https://github.com/Solrikuriku/SonotrodeProject)<br />
@@ -23,6 +25,8 @@ she/her | 26 | ENG/RU <br />
 🌻[Собственный язык программирования](https://github.com/Solrikuriku/krivokos-source-to-source-compiler)<br />
 
 Ведь машины Голдберга - это очень весело!<br />
+
+P.S.: когда-нибудь я это переведу на английский, обещаю.
 
 <div id = "star">
 
