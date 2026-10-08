@@ -12,7 +12,7 @@
 *or Tunglio, or Solrikuriku, or Termensol, or Solanum*<br />
 *or... just Sol*<br />
   
-she/her 26 | ENG/RU <br />
+she/her | 26 | ENG/RU <br />
 (๑ > ᴗ < ๑) <br />
 <br />
 Основные проекты:<br />
