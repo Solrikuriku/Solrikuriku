@@ -11,13 +11,19 @@
 </div>
 *or Tunglio, or Solrikuriku, or Termensol, or Solanum*<br />
 *or... just Sol*<br />
-
-<a href="https://bsky.app/profile/solrikuriku.bsky.social"> здесь можно почитать мои бредни </a>
   
-she/her/xe/xer | 26 | ENG/RU <br />
-little stupid loser girl<br />
+she/her 26 | ENG/RU <br />
 (๑ > ᴗ < ๑) <br />
 <br />
+Основные проекты:<br />
+🌻[2D САПР для конструирования верха обуви](https://github.com/Solrikuriku/2D-CAD-Shoes)<br />
+🌻[Программа для расчета параметров сонотрода для оборудования ультразвуковой сварки](https://github.com/Solrikuriku/SonotrodeProject)<br />
+🌻[Мой пет-проект, 3D-программа а-ля Blender //в стадии начальной разработки](https://github.com/Solrikuriku/CAD-prototype)<br />
+🌻[Аддон для генерации фракталов в Blender](https://github.com/Solrikuriku/fractal-blender-addon)<br />
+🌻[Собственный язык программирования](https://github.com/Solrikuriku/krivokos-source-to-source-compiler)<br />
+
+Ведь машины Голдберга - это очень весело!<br />
+
 <div id = "star">
 
 
@@ -35,5 +41,5 @@ little stupid loser girl<br />
             |                                                        
 
 </div>
-/*in reconstruction*/
+
 </div>
